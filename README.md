@@ -103,7 +103,7 @@ Resultat: `OK` (Si G2 és igual a "Seguidor de línia" i L2 és més petit que 1
 
 ## XLOOKUP
 
-**Documentació:** <https://support.google.com/docs/answer/7014145?hl=ca&sjid=12507546114658161523-EU>
+**Documentació:** <https://support.google.com/docs/answer/12405947?hl=en&sjid=13015510690200445691-EU>
 
 **Què fa:** La funció XLOOKUP torna els valors de l'interval de resultats d'acord amb la posició en què s'ha trobat una coincidència a l'interval de cerca. Si no es troba cap coincidència, torna la coincidència més propera.
 
